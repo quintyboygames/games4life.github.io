@@ -1,6 +1,6 @@
 # Welkom dat je kijkt
 
-Iedereen dient zich aan de regels te houden. !!Ook Diego!!
+Iedereen dient zich aan de regels te houden.
 
 Het breken van de regels kan resulteren in een ban.
 
