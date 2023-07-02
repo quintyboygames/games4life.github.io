@@ -1,1 +1,2 @@
-# mkdocs-games4life-regels
+# mkdocs-games4life-regels .
+
