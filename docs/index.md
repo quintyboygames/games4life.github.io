@@ -1,6 +1,6 @@
 # Welkom dat je kijkt
 
-Iedereen dient zich aan de regels te houden.
+Iedereen dient zich aan de regels te houden. test
 
 Het breken van de regels kan resulteren in een ban.
 
