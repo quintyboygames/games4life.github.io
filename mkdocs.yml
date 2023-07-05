@@ -12,6 +12,10 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: nl
+  nav:
+    - Home: 'index.md'
+    - Regels: 'regels.md'
+    - About: 'about.md'
   palette:
     - scheme: default
       toggle: 
@@ -25,3 +29,12 @@ theme:
         name: Switch to light mode
       primary: teal
       accent: purple
+copyright: Copyright &copy; 2019 - 2023 Games4Life Community
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/g4life
+      name: G4L Community on discord
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@quintyboygames
+      name: quintyboygames's youtube kanaal
