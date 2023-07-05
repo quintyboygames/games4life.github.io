@@ -12,10 +12,6 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: nl
-  nav:
-    - Home: 'index.md'
-    - Regels: 'regels.md'
-    - About: 'about.md'
   palette:
     - scheme: default
       toggle: 
