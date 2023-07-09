@@ -1,3 +1,0 @@
-# Over
-
-## Wie zijn wij?
