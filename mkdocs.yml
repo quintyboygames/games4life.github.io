@@ -1,36 +1,56 @@
+# Info
+site_name: Games4Life Regels
+site_url: 'https://regels.games4life.org/'
+site_description: 'Games4Life regels'
+site_author: 'quintyboygames'
+
+# Repo
+repo_url: 'https://github.com/quintyboygames/games4life.github.io'
+repo_name: 'quintyboygames/games4life.github.io'
+edit_uri: 'https://github.com/quintyboygames/games4life.github.io/tree/main/docs'
+
+# Copyright
+copyright: Copyright &copy; 2019 - 2023 Games4Life Community
+
+
+
+#Config
 site_name: Games4Life Regels
 theme:
   name: material
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
-  language: nl
-  nav:
-    - Home: index.md
-    - Algemene regels: regels.md
+
   palette:
     - scheme: default
-      toggle: 
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-      primary: teal
-      accent: purple
+      toggle:
+        icon: material/weather-night
+        name: Donkere modus
     - scheme: slate
-      toggle: 
-        icon: material/toggle-switch
-        name: Switch to light mode
-      primary: teal
-      accent: purple
-copyright: Copyright &copy; 2019 - 2023 Games4Life Community
+      toggle:
+        icon: material/weather-sunny
+        name: Lichte modus
+
+#Navigeer
+nav:
+  - Welkom: index.md
+  - Algemene regels: Algemeen.md
+
+# Extensions
+features:
+  - navigation.tabs
+  - navigation.sections
+  - toc.integrate
+  - navigation.top
+  - search.suggest
+  - search.highlight
+  - content.tabs.link
+  - content.code.annotation
+  - content.code.copy
+
 extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/g4life
       name: G4L Community on discord
+
+markdown_extensions:
+  - pymdownx.keys
