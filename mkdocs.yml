@@ -32,7 +32,7 @@ theme:
 #Navigeer
 nav:
   - Welkom: index.md
-  - Algemene regels: Algemeen.md
+  - Regels: regels.md
 
 # Extensions
 features:
